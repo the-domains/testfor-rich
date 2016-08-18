@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-18T13:58:47.611Z'
+datePublished: '2016-08-18T14:04:23.124Z'
 author: []
 via: {}
-dateModified: '2016-08-18T13:58:47.381Z'
+dateModified: '2016-08-18T14:04:22.846Z'
 title: ''
 publisher: {}
 description: 'No need for will power,'
 sourcePath: _posts/2016-08-18-no-need-for-will-power.md
 hasPage: true
-starred: false
+starred: true
 url: no-need-for-will-power/index.html
 _context: 'http://schema.org'
 _type: Article
