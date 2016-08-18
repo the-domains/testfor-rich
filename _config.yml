@@ -1,0 +1,14 @@
+layout_spectrum: 0.4434237922541797
+typography_spectrum: 0.13665226101875305
+color:
+  brandStrength: 0.785485774744302
+  lightness: 0.18220580299384892
+  saturation: 0.37586664711125195
+  rhythmicContrast: 0.7066341585014015
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: testfor rich
