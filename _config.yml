@@ -1,16 +1,16 @@
-typography_spectrum: 0.13665226101875305
+typography_spectrum: 0.3284771747421473
 color:
-  brandStrength: 0.785485774744302
-  lightness: 0.18220580299384892
-  saturation: 0.37586664711125195
-  rhythmicContrast: 0.7066341585014015
+  brandStrength: 0.6450441386550665
+  lightness: 0.014486113796010613
+  saturation: 0.2625185127835721
+  rhythmicContrast: 0.09908726997673512
   brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
     - '#FFFFFF'
-    - '#BDBDBD'
-    - '#9496BF'
-    - '#1E1E1E'
-    - '#727272'
-layout_spectrum: 0.4434237922541797
+    - '#FFC0A9'
+    - '#FF8598'
+layout_spectrum: 0.6945949303917587
 name: testfor rich
 navigation:
   - name: Sea of Surrender
