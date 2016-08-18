@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Rich Okun]]></title>
         <description><![CDATA[Rich Okun]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testfor-rich/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 14:00:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 14:01:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testfor-rich/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My Dream has come]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d6dda11c5944ac9f0438cca126830fe5c311a08.jpg" alt="" title="">]]></description>
-            <link>undefinedmy-dream-has-come/index.html</link>
+            <link>https://thegrid.ai/testfor-rich/my-dream-has-come/index.html</link>
             <guid isPermaLink="false">d90c62d0-a2b9-421f-a6a7-40fb0af346f6</guid>
             <pubDate>Thu, 18 Aug 2016 14:00:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intuition ]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4d501f2164b6d6150f321bd8292e28a56861b47.jpg" alt="Intuition">]]></description>
+            <link>https://thegrid.ai/testfor-rich/intuition/index.html</link>
+            <guid isPermaLink="false">1c9baa9e-1f76-4fd2-b316-ba16dcd3dcd2</guid>
+            <pubDate>Thu, 18 Aug 2016 14:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
