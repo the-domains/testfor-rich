@@ -12,5 +12,9 @@ color:
     - '#727272'
 layout_spectrum: 0.4434237922541797
 name: testfor rich
+navigation:
+  - name: Sea of Surrender
+    id: 1e3e0803-1161-44ed-b2ad-2f9f443c40ac
+    type: content
 title: Rich Okun
 description: in words and pictures
