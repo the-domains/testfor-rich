@@ -19,5 +19,8 @@ navigation:
   - name: 'Books, apps, posts and more'
     url: 'http://www.thesunthemoonthestarsandmaya.com'
     type: external
+  - name: Maya
+    url: 'http://thegrid.ai/maya'
+    type: external
 title: Rich Okun
 description: in words and pictures
