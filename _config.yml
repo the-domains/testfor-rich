@@ -22,5 +22,8 @@ navigation:
   - name: Interviews
     url: 'http:/thegrid.ai/author-interviews'
     type: external
+  - name: Vignettes
+    url: 'http://thegrid.ai/richokun'
+    type: external
 title: Rich Okun
 description: in words and pictures
