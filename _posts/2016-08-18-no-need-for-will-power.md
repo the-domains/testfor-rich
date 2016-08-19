@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-19T11:40:40.544Z'
+datePublished: '2016-08-19T11:42:31.478Z'
 sourcePath: _posts/2016-08-18-no-need-for-will-power.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T11:40:40.159Z'
+dateModified: '2016-08-19T11:42:31.134Z'
 title: Sea of Surrender
 publisher: {}
 description: 'No need for will power,'
-starred: true
+starred: false
 url: no-need-for-will-power/index.html
 _context: 'http://schema.org'
 _type: Article
