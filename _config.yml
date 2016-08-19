@@ -19,5 +19,8 @@ navigation:
   - name: Maya
     url: 'http://thegrid.ai/maya'
     type: external
+  - name: Interviews
+    url: 'http:/thegrid.ai/author-interviews'
+    type: external
 title: Rich Okun
 description: in words and pictures
