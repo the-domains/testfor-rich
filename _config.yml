@@ -11,16 +11,13 @@ color:
     - '#FFC0A9'
     - '#FF8598'
 layout_spectrum: 0.5338754507247359
-author:
-  name: Rich Okun
-  email: ravenchief@comcast.net
-  url: www.thesnthemoonthestarsandmaya.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c0e5e8f-0622-4037-8f3f-521d022fe91a.jpg
 name: testfor rich
 navigation:
   - name: Sea of Surrender
     id: 1e3e0803-1161-44ed-b2ad-2f9f443c40ac
     type: content
+  - name: 'Books, apps, posts and more'
+    url: 'http://www.thesunthemoonthestarsandmaya.com'
+    type: external
 title: Rich Okun
 description: in words and pictures
