@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.5338754507247359
 name: testfor rich
 navigation:
-  - name: Sea of Surrender
-    id: 1e3e0803-1161-44ed-b2ad-2f9f443c40ac
-    type: content
   - name: 'Books, apps, posts and more'
     url: 'http://www.thesunthemoonthestarsandmaya.com'
     type: external
