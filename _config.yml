@@ -25,5 +25,8 @@ navigation:
   - name: Stone Carvings
     url: 'https://thegrid.ai/homepage1/'
     type: external
+  - name: 'Maya, Books, Apps, and stories'
+    url: 'https://thegrid.ai/maya-books-apps-and-more/'
+    type: external
 title: Rich Okun
 description: in words and pictures
