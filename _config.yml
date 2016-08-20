@@ -34,5 +34,8 @@ navigation:
   - name: Buy Prints
     url: 'http://fineartamerica.com/profiles/richard-okun.html'
     type: external
+  - name: Author Interviews
+    url: 'https://thegrid.ai/author-interviews/'
+    type: external
 title: Rich Okun
 description: in words and pictures
