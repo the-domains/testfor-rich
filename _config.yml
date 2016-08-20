@@ -31,5 +31,8 @@ navigation:
   - name: Published Books
     url: 'http://www.amazon.com/Rich-Okun/e/B00DZO54IG/'
     type: external
+  - name: Buy Prints
+    url: 'http://fineartamerica.com/profiles/richard-okun.html'
+    type: external
 title: Rich Okun
 description: in words and pictures
