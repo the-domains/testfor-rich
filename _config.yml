@@ -22,5 +22,8 @@ navigation:
   - name: Vignettes
     url: 'http://thegrid.ai/richokun'
     type: external
+  - name: Stone Carvings
+    url: 'https://thegrid.ai/homepage1/'
+    type: external
 title: Rich Okun
 description: in words and pictures
