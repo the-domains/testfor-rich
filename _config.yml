@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.5338754507247359
 name: testfor rich
 navigation:
-  - name: 'Books, apps, posts and more'
-    url: 'http://www.thesunthemoonthestarsandmaya.com'
-    type: external
   - name: Maya
     url: 'http://thegrid.ai/maya'
     type: external
