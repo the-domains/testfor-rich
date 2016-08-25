@@ -34,5 +34,8 @@ navigation:
   - name: Interviews and more
     url: 'https://thegrid.ai/author-interviews/'
     type: external
+  - name: Book videos
+    url: 'https://thegrid.ai/test1site/'
+    type: external
 title: Rich Okun
 description: in words and pictures
