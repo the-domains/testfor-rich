@@ -34,5 +34,8 @@ navigation:
   - name: Book videos
     url: 'https://thegrid.ai/test1site/'
     type: external
+  - name: Maya Posts
+    url: 'https://thegrid.ai/maya/'
+    type: external
 title: Rich Okun
 description: in words and pictures
