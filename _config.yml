@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.5338754507247359
 name: testfor rich
 navigation:
-  - name: Maya
-    url: 'http://thegrid.ai/maya'
-    type: external
   - name: Vignettes
     url: 'http://thegrid.ai/richokun'
     type: external
