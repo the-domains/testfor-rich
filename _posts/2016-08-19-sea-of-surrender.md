@@ -1,22 +1,21 @@
 ---
-datePublished: '2016-08-30T13:52:00.923Z'
+datePublished: '2016-08-30T14:01:29.281Z'
 sourcePath: _posts/2016-08-19-sea-of-surrender.md
 inFeed: true
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d381f6e-8b5c-4896-a00e-06378c1e8658.jpg
 author: []
 via: {}
-dateModified: '2016-08-30T13:51:48.117Z'
+dateModified: '2016-08-30T14:00:26.347Z'
 title: ''
 publisher: {}
-description: Click menu above left to select
+description: 'No need for will power,'
 starred: false
 _context: 'http://schema.org'
 _type: Article
 
 ---
-Click menu above left to select
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3fc6fc16dc96fdb84a9abf95637feda2/croprotate.jpg?cropheight=3022&cropwidth=2013&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0d381f6e-8b5c-4896-a00e-06378c1e8658.jpg&x=0&y=0)
+![Click menu above left](https://s3-us-west-2.amazonaws.com/the-grid-img/p/48f3f91f9a431e8baba151305ae35b20c2a2e0c6.jpg)
 
 No need for will power,
 
