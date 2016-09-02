@@ -1,4 +1,3 @@
-layout_spectrum: 0.5338754507247359
 typography_spectrum: 0.3971714349463582
 color:
   brandStrength: 0.3352607460692525
@@ -11,6 +10,7 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
+layout_spectrum: 0.5338754507247359
 name: testfor rich
 navigation:
   - name: Vignettes
