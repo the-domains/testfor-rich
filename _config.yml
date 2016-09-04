@@ -27,6 +27,9 @@ navigation:
   - name: Maya - App and Bedtime Stories
     url: 'https://thegrid.ai/maya-books-apps-and-more/'
     type: external
+  - name: Book Trailers and Bio
+    url: 'https://thegrid.ai/test1site/'
+    type: external
   - name: Purchase Books
     url: 'http://www.amazon.com/Rich-Okun/e/B00DZO54IG/'
     type: external
@@ -35,9 +38,6 @@ navigation:
     type: external
   - name: Interviews and more
     url: 'https://thegrid.ai/author-interviews/'
-    type: external
-  - name: Book Trailers and Bio
-    url: 'https://thegrid.ai/test1site/'
     type: external
 title: Rich Okun
 description: in words and pictures
