@@ -24,11 +24,11 @@ navigation:
   - name: Maya Posts
     url: 'https://thegrid.ai/maya/'
     type: external
-  - name: Maya - App and Bedtime Stories
-    url: 'https://thegrid.ai/maya-books-apps-and-more/'
-    type: external
   - name: Book Trailers and Bio
     url: 'https://thegrid.ai/test1site/'
+    type: external
+  - name: Maya - App and Bedtime Stories
+    url: 'https://thegrid.ai/maya-books-apps-and-more/'
     type: external
   - name: Interviews and more
     url: 'https://thegrid.ai/author-interviews/'
