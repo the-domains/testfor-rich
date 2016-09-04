@@ -30,14 +30,14 @@ navigation:
   - name: Book Trailers and Bio
     url: 'https://thegrid.ai/test1site/'
     type: external
+  - name: Interviews and more
+    url: 'https://thegrid.ai/author-interviews/'
+    type: external
   - name: Purchase Books
     url: 'http://www.amazon.com/Rich-Okun/e/B00DZO54IG/'
     type: external
   - name: Buy Prints
     url: 'http://fineartamerica.com/profiles/richard-okun.html'
-    type: external
-  - name: Interviews and more
-    url: 'https://thegrid.ai/author-interviews/'
     type: external
 title: Rich Okun
 description: in words and pictures
