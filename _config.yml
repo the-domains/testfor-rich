@@ -1,4 +1,3 @@
-layout_spectrum: 0.7695201397873461
 typography_spectrum: 0.6054470026865602
 color:
   brandStrength: 0.3352607460692525
@@ -11,6 +10,7 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
+layout_spectrum: 0.7695201397873461
 analytics:
   google: UA-35516913-1
 name: Click on menu above
@@ -39,5 +39,5 @@ navigation:
   - name: Buy Prints
     url: 'http://fineartamerica.com/profiles/richard-okun.html'
     type: external
-title: Rich Okun
+title: in words and pictures
 description: in words and pictures
