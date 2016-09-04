@@ -39,9 +39,5 @@ navigation:
   - name: Buy Prints
     url: 'http://fineartamerica.com/profiles/richard-okun.html'
     type: external
-  - name: test
-    url: >-
-      https://testing.thegrid.io/app/site/live?siteID=dbc62b71-5176-4e73-b0b5-6050aed3741d
-    type: external
 title: Rich Okun
 description: in words and pictures
