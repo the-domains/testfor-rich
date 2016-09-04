@@ -1,4 +1,3 @@
-layout_spectrum: 0.31430257204920053
 typography_spectrum: 0.6683851950801909
 color:
   brandStrength: 0.3352607460692525
@@ -11,6 +10,7 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
+layout_spectrum: 0.31430257204920053
 analytics:
   google: UA-35516913-1
 name: Click on menu above
@@ -24,7 +24,7 @@ navigation:
   - name: Maya - App and Bedtime Stories
     url: 'https://thegrid.ai/maya-books-apps-and-more/'
     type: external
-  - name: Published Books
+  - name: Purchase Books
     url: 'http://www.amazon.com/Rich-Okun/e/B00DZO54IG/'
     type: external
   - name: Buy Prints
