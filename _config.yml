@@ -1,4 +1,5 @@
-typography_spectrum: 0.6683851950801909
+layout_spectrum: 0.7695201397873461
+typography_spectrum: 0.6054470026865602
 color:
   brandStrength: 0.3352607460692525
   lightness: 0.8322198069654405
@@ -10,7 +11,6 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
-layout_spectrum: 0.31430257204920053
 analytics:
   google: UA-35516913-1
 name: Click on menu above
