@@ -33,7 +33,7 @@ navigation:
   - name: Interviews and more
     url: 'https://thegrid.ai/author-interviews/'
     type: external
-  - name: Purchase Books
+  - name: Buy Books
     url: 'http://www.amazon.com/Rich-Okun/e/B00DZO54IG/'
     type: external
   - name: Buy Prints
