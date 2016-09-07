@@ -39,5 +39,8 @@ navigation:
   - name: Buy Prints
     url: 'http://fineartamerica.com/profiles/richard-okun.html'
     type: external
+  - name: Old Website
+    url: 'http://www.thesunthemoonthestarsandmaya.com/'
+    type: external
 title: in words and pictures
 description: Rich Okun
